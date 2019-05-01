@@ -1,9 +1,0 @@
-c:\users\jacksoft\documents\visual studio 2013\Projects\IMEIChecksum\IMEIChecksum\bin\Debug\IMEIChecksum.exe.config
-c:\users\jacksoft\documents\visual studio 2013\Projects\IMEIChecksum\IMEIChecksum\bin\Debug\IMEIChecksum.exe
-c:\users\jacksoft\documents\visual studio 2013\Projects\IMEIChecksum\IMEIChecksum\bin\Debug\IMEIChecksum.pdb
-c:\users\jacksoft\documents\visual studio 2013\Projects\IMEIChecksum\IMEIChecksum\obj\Debug\IMEIChecksum.csprojResolveAssemblyReference.cache
-c:\users\jacksoft\documents\visual studio 2013\Projects\IMEIChecksum\IMEIChecksum\obj\Debug\IMEIChecksum.MainForm.resources
-c:\users\jacksoft\documents\visual studio 2013\Projects\IMEIChecksum\IMEIChecksum\obj\Debug\IMEIChecksum.Properties.Resources.resources
-c:\users\jacksoft\documents\visual studio 2013\Projects\IMEIChecksum\IMEIChecksum\obj\Debug\IMEIChecksum.csproj.GenerateResource.Cache
-c:\users\jacksoft\documents\visual studio 2013\Projects\IMEIChecksum\IMEIChecksum\obj\Debug\IMEIChecksum.exe
-c:\users\jacksoft\documents\visual studio 2013\Projects\IMEIChecksum\IMEIChecksum\obj\Debug\IMEIChecksum.pdb
